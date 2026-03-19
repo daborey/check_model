@@ -1,2 +1,4 @@
 https://daborey.github.io/check_model/
-![my logo](images/qr.png)
+<a href="images/qr.png">
+  <img src="images/qr.png" width="200">
+</a>
